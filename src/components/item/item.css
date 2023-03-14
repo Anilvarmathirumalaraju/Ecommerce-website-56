@@ -1,0 +1,28 @@
+.Item{
+
+    width: 30%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: 1px solid;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 0px;
+
+}
+.Item-title{
+color: rgb(255, 142, 127);
+font-size: 30px;
+margin: auto;
+}
+.submit-part{
+display: flex;
+justify-content: space-between;
+margin: 20px;
+}
+.Item-button{
+background-color: green;
+color: white;
+
+}

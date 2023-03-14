@@ -1,0 +1,11 @@
+.hedder{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+.headding{
+    font-size: 30px;
+}
+.logo i{
+    font-size: 30px;
+}
